@@ -16,6 +16,6 @@ main:
     
   - title: Implicit SNS-PFEM with dual mortar method for thermo-hydro-mechanical large deformation problems
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Wei-Qiang Feng, Zhen-Yu Yin, Huang-Cheng Fang
-    conference: Journal on Computational Mechanics, 2024.
+    conference: Journal on Computational Mechanics or Geomechanics, 2024.
     bibtex: ./assets/files/abstract_WXH.txt
     image: ./assets/img/WXH_THM_SNS.png
