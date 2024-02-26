@@ -241,17 +241,21 @@
 
 @article{zhang_material_2023,
 	title = {Material {Constants} of {Anisotropic} {Poroelasticity} and {Its} {Impacts} on {Shale} {Gas} {Production}},
+	volume = {37},
 	doi = {10.1021/acs.energyfuels.3c02656},
+	number = {23},
 	journal = {Energy \& Fuels},
 	author = {Zhang, Qi and Yin, Zhen-Yu and Yan, Xia},
 	month = nov,
 	year = {2023},
+	pages = {17617--19376},
 }
 
 @misc{zhang_gas_2023,
 	title = {Gas flow and solid deformation in unconventional shale},
 	url = {http://arxiv.org/abs/2311.12877},
-	abstract = {Shale, a material that is currently at the heart of energy resource development, plays a critical role in the management of civil infrastructures. Whether it concerns geothermal energy, carbon sequestration, hydraulic fracturing, or waste storage, one is likely to encounter shale as it accounts for approximately 75{\textbackslash}\% of rocks in sedimentary basins. Despite the abundance of experimental data indicating the mechanical anisotropy of these formations, past research has often simplified the modeling process by assuming isotropy. In this study, the anisotropic elasticity model and the advanced anisotropic elastoplasticity model proposed by Semnani et al. (2016) and Zhao et al. (2018) were adopted in traditional gas production and strip footing problems, respectively. This was done to underscore the unique characteristics of unconventional shale. The first application example reveals the effects of bedding on apparent permeability and stress evolutions. In the second application example, we contrast the hydromechanical responses with a comparable case where gas is substituted by incompressible fluid. These novel findings enhance our comprehension of gas flow and solid deformation in shale.},
+	doi = {10.48550/arXiv.2311.12877},
+	abstract = {Shale, a material that is currently at the heart of energy resource development, plays a critical role in the management of civil infrastructures. Whether it concerns geothermal energy, carbon sequestration, hydraulic fracturing, or waste storage, one is likely to encounter shale as it accounts for approximately 75% of rocks in sedimentary basins. Despite the abundance of experimental data indicating the mechanical anisotropy of these formations, past research has often simplified the modeling process by assuming isotropy. In this study, the anisotropic elasticity model and the advanced anisotropic elastoplasticity model proposed by Semnani et al. (2016) and Zhao et al. (2018) were adopted in traditional gas production and strip footing problems, respectively. This was done to underscore the unique characteristics of unconventional shale. The first application example reveals the effects of bedding on apparent permeability and stress evolutions. In the second application example, we contrast the hydromechanical responses with a comparable case where gas is substituted by incompressible fluid. These novel findings enhance our comprehension of gas flow and solid deformation in shale.},
 	publisher = {arXiv},
 	author = {Zhang, Qi and Yin, Zhen-Yu and Yan, Xia and Wang, Xinyu},
 	month = nov,
@@ -263,8 +267,13 @@
 
 @article{zhang_anisotropic_2024,
 	title = {Anisotropic continuum framework of coupled gas flow - adsorption - deformation in sedimentary rocks},
+	volume = {48},
+	doi = {10.1002/nag.3674},
 	abstract = {Solid deformation is always a crucial factor of gas transport in sedimentary rocks. While previous studies always adopt the assumption of isotropic poroelastic deformation, anisotropic poroelastoplastic deformation is rarely considered, despite anisotropy being a ubiquitous property of natural sedimentary rocks. In this work, an anisotropic poromechanical model is established to analyze the matrix porosity and apparent permeability evolutions during the process of gas migration. Using a thermodynamic formulation that treats the fluid-solid interface as an independent phase, we derive a rate form for matrix porosity and obtain the new dissipation function that contains three parts: dissipations from solid deformation, gas adsorption, and fluid flow. For gas adsorption, we justify the rationality of the adopted model; for fluid flow, the updated porosity can be substituted into sophisticated apparent permeability models for full-scale analysis; and for solid deformation, a recently developed constitutive model appropriate for rocks exhibiting transverse isotropy in both the elastic and plastic responses is adopted in this work. Through the novel stress-point simulation incorporating two effective stress measures and adsorption strain, new patterns of apparent permeability are obtained, which fit the experimental data quite well and cannot be reproduced from the assumption of isotropic poroelasticity. The advantages of our poromechanical model include thermodynamic consistency and the ability to employ finite-element-based formulation. Finally, an initial-boundary value problem of gas production considering anisotropic plasticity is conducted, and the effects of the bedding plane and different adsorption models are highlighted.},
+	number = {4},
 	journal = {International Journal for Numerical and Analytical Methods in Geomechanics},
 	author = {Zhang, Qi and Yin, Zhen-Yu and Yan, Xia},
-	year = {2024},
+	month = mar,
+	yeaar = {2024},
+	pages = {1018--1045},
 }
