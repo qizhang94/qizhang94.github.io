@@ -14,13 +14,14 @@ main:
     pdf: https://link.springer.com/journal/40948
     image: ./assets/img/Hidden_fault.jpg
     
-  - title: Implicit SNS-PFEM with dual mortar method for thermo-hydro-mechanical large deformation problems
+  - title: On the thermodyanically-consistent thermo-hydro-mechanics theory and its novel SNS-PFEM approach
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Wei-Qiang Feng, Zhen-Yu Yin, Huang-Cheng Fang
     conference: To be submitted
     bibtex: ./assets/files/abstract_WXH.txt
     image: ./assets/img/WXH_THM_SNS.png
     
-  - title: A Novel Coupled bES-FEM Formulation with SUPG stabilization for Thermo-Hydro-Mechanical Analysis in Saturated Porous Media
+  - title: A novel coupled bES-FEM formulation with SUPG stabilization for thermo-hydro-mechanical analysis in saturated porous media
     authors: Zi-Qi Tang, Xi-Wen Zhou, Yin-Fu Jin, Zhen-Yu Yin, <strong>Qi Zhang</strong>
     conference: Computers and Geotechnics, 2024.
     pdf: https://www.sciencedirect.com/journal/computers-and-geotechnics
+    image: ./assets/img/Others.jpg
