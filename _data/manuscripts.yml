@@ -3,16 +3,9 @@ main:
   - title: A novel approach for hydromechanical soil-structure interaction analysis with stable node-based smoothed PFEM
     authors: Yin-Fu Jin, Ze-Yu Wang, Zhen-Yu Yin, <strong>Qi Zhang</strong>, Yu-Ze Wang
     conference_short: IJNME
-    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, 2024.
+    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, Major revision, 2024.
     pdf: https://onlinelibrary.wiley.com/journal/10970207
     image: ./assets/img/WZY_NME.jpg
-
-  - title: Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model
-    authors: Jianli Shao, <strong>Qi Zhang</strong>, Wenquan Zhang
-    conference_short: GGGG
-    conference: Geomechanics and Geophysics for Geo-Energy and Geo-Resources <strong>(GGGG)</strong>, 2024.
-    pdf: https://link.springer.com/journal/40948
-    image: ./assets/img/Hidden_fault.jpg
     
   - title: On the thermodyanically-consistent thermo-hydro-mechanics theory and its novel SNS-PFEM approach
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Wei-Qiang Feng, Zhen-Yu Yin, Huang-Cheng Fang

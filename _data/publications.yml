@@ -8,6 +8,14 @@ main:
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/Stanford.jpg
     notes: Dissertation Reading Committee - Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
+    
+  - title: Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model
+    authors: Jianli Shao, <strong>Qi Zhang</strong>, Wenquan Zhang
+    conference_short: GGGG
+    conference: Geomechanics and Geophysics for Geo-Energy and Geo-Resources <strong>(GGGG)</strong>, 2024.
+    pdf: https://link.springer.com/journal/40948
+    image: ./assets/img/Hidden_fault.jpg
+    notes: WoS JCR Q1
 
   - title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation in sedimentary rocks
     authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin*, Xia Yan (*Corresponding author)
