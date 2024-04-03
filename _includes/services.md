@@ -20,6 +20,7 @@
   <li><a href="https://onlinelibrary.wiley.com/journal/10969853"><autocolor>International Journal for Numerical and Analytical Methods in Geomechanics</autocolor></a></li>
   <li><a href="https://onlinelibrary.wiley.com/journal/10970207"><autocolor>International Journal for Numerical Methods in Engineering</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/13762"><autocolor>International Journal of Environmental Science and Technology</autocolor></a></li>
+  <li><a href="https://ascelibrary.org/journal/ijgnai"><autocolor>International Journal of Geomechanics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences"><autocolor>International Journal of Rock Mechanics and Mining Sciences</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production"><autocolor>Journal of Cleaner Production</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11582"><autocolor>Journal of Zhejiang University-SCIENCE A</autocolor></a></li>   
