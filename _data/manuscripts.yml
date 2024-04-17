@@ -15,6 +15,6 @@ main:
     
   - title: A novel coupled bES-FEM formulation with SUPG stabilization for thermo-hydro-mechanical analysis in saturated porous media
     authors: Zi-Qi Tang, Xi-Wen Zhou, Yin-Fu Jin, Zhen-Yu Yin, <strong>Qi Zhang</strong>
-    conference: Computers and Geotechnics, COMGE-D-24-00804, 2024.
+    conference: Computers and Geotechnics, COMGE-D-24-00804, Medium revision, 2024.
     pdf: https://www.sciencedirect.com/journal/computers-and-geotechnics
     image: ./assets/img/Others.jpg
