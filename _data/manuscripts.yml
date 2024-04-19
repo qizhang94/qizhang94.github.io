@@ -3,7 +3,7 @@ main:
   - title: A novel approach for hydromechanical soil-structure interaction analysis with stable node-based smoothed PFEM
     authors: Yin-Fu Jin, Ze-Yu Wang, Zhen-Yu Yin, <strong>Qi Zhang</strong>, Yu-Ze Wang
     conference_short: IJNME
-    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, Major revision, 2024.
+    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, NME-Jul-23-0555, Major revision, 2024.
     pdf: https://onlinelibrary.wiley.com/journal/10970207
     image: ./assets/img/WZY_NME.jpg
     
