@@ -9,6 +9,13 @@ main:
     image: ./assets/img/Stanford.jpg
     notes: Dissertation Reading Committee - Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
     
+  - title: A novel coupled bES-FEM formulation with SUPG stabilization for thermo-hydro-mechanical analysis in saturated porous media
+    authors: Zi-Qi Tang, Xi-Wen Zhou, Yin-Fu Jin, Zhen-Yu Yin, <strong>Qi Zhang</strong>
+    conference_short: CGEOT
+    conference: Computers and Geotechnics <strong>(CGEOT)</strong>, 2024.
+    pdf: https://doi.org/10.1016/j.compgeo.2024.106454
+    image: ./assets/img/Others.jpg    
+    
   - title: Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model
     authors: Jianli Shao, <strong>Qi Zhang</strong>*, Wenquan Zhang (*Corresponding author)
     conference_short: GGGG

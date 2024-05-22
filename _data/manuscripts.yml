@@ -3,19 +3,12 @@ main:
   - title: A novel approach for hydromechanical soil-structure interaction analysis with stable node-based smoothed PFEM
     authors: Yin-Fu Jin, Ze-Yu Wang, <strong>Qi Zhang</strong>, Zhen-Yu Yin, Yu-Ze Wang
     conference_short: IJNME
-    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, NME-Jul-23-0555-R1, revision and resubmitted, 2024.
+    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, NME-Jul-23-0555-R1, major revision, 2024.
     pdf: https://onlinelibrary.wiley.com/journal/10970207
     image: ./assets/img/WZY_NME.jpg
     
   - title: On the novel thermo-hydro-mechanical coupling theory for saturated porous media and its implicit SNS-PFEM framework considering multi-physics contact
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Wei-Qiang Feng, Zhen-Yu Yin, Huang-Cheng Fang
-    conference: To be submitted
+    conference: Submitted
     bibtex: ./assets/files/abstract_WXH.txt
     image: ./assets/img/WXH_THM_SNS.png
-    
-  - title: A novel coupled bES-FEM formulation with SUPG stabilization for thermo-hydro-mechanical analysis in saturated porous media
-    authors: Zi-Qi Tang, Xi-Wen Zhou, Yin-Fu Jin, Zhen-Yu Yin, <strong>Qi Zhang</strong>
-    conference_short: CGEOT
-    conference: Computers and Geotechnics, COMGE-D-24-00804-R1, revision and resubmitted, 2024.
-    pdf: https://www.sciencedirect.com/journal/computers-and-geotechnics
-    image: ./assets/img/Others.jpg
