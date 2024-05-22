@@ -14,7 +14,8 @@ main:
     conference_short: CGEOT
     conference: Computers and Geotechnics <strong>(CGEOT)</strong>, 2024.
     pdf: https://doi.org/10.1016/j.compgeo.2024.106454
-    image: ./assets/img/Others.jpg    
+    image: ./assets/img/Others.jpg
+    notes: WoS JCR Q1
     
   - title: Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model
     authors: Jianli Shao, <strong>Qi Zhang</strong>*, Wenquan Zhang (*Corresponding author)
