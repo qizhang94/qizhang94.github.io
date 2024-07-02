@@ -7,13 +7,6 @@ main:
     pdf: https://onlinelibrary.wiley.com/journal/10970207
     image: ./assets/img/WZY_NME.jpg
     
-  - title: Solid waste slurry grouting transformation mechanism of loose sand layer based on slurry-water replacement effect
-    authors: Xianxiang Zhu, <strong>Qi Zhang</strong>*, Wenquan Zhang, Lei Jin, Zixu Li (*Corresponding author)
-    conference_short: PoF
-    conference: Physics of Fluids <strong>(PoF)</strong>, POF24-AR-04891R, resubmitted, 2024.
-    pdf: https://pubs.aip.org/aip/pof
-    image: ./assets/img/Others.jpg    
-    
   - title: On the novel thermo-hydro-mechanical coupling theory for saturated porous media and its implicit SNS-PFEM framework considering multi-physics contact
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>*, Wei-Qiang Feng*, Zhen-Yu Yin*, Huang-Cheng Fang (*Corresponding author)
     conference: Submitted
