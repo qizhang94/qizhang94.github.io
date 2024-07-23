@@ -13,7 +13,8 @@ main:
     authors: Xianxiang Zhu, <strong>Qi Zhang</strong>*, Wenquan Zhang, Lei Jin, Zixu Li (*Corresponding author)
     conference_short: PoF
     conference: Physics of Fluids <strong>(PoF)</strong>, 2024.
-    image: ./assets/img/Others.jpg        
+    pdf: https://doi.org/10.1063/5.0217551
+    image: ./assets/img/Others.jpg
     
   - title: A novel coupled bES-FEM formulation with SUPG stabilization for thermo-hydro-mechanical analysis in saturated porous media
     authors: Zi-Qi Tang, Xi-Wen Zhou, Yin-Fu Jin, Zhen-Yu Yin, <strong>Qi Zhang</strong>
