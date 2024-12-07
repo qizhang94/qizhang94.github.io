@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+**This website is NOT updated anymore.** Please visit my new website @ [keyjone.github.io](https://keyjone.github.io/).
+
 ## Resources
 
 Here are the [MATLAB main file](../assets/files/anisotropic_elasticity.txt){:target="_blank"} and two associated functions ([Double contraction](../assets/files/double_dot.txt){:target="_blank"} and [Conversion](../assets/files/stiffness_to_mat6by6.txt){:target="_blank"}) for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matrix form, etc.) The theory could be found in this [[PDF]](../assets/files/Shared_1.pdf){:target="_blank"}.
