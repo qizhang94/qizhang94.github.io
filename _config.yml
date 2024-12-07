@@ -1,8 +1,8 @@
 # Basic Information 
 title: Qi ZHANG
-position: Research Assistant Professor
-affiliation: The Hong Kong Polytechnic University
-email: q7zhang (at) polyu.edu.hk
+# position: Research Assistant Professor
+# affiliation: The Hong Kong Polytechnic University
+# email: q7zhang (at) polyu.edu.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +12,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=-iUROnMAAAAJ&hl=en&authuser=2
-cv_link: assets/files/curriculum_vitae_Zhang.pdf
-github_link: https://github.com/qizhang94
-linkedin: http://huezhi.com/profile/D0g7-DbDtRETzcEOhC0dFS69RCLJySkoSpmOpQd4ZWb7TrnRh_E9pxM5HGmdxvut?nm=Qi%20Zhang
-twitter: https://twitter.com/q7zhang
+# google_scholar: https://scholar.google.com/citations?user=-iUROnMAAAAJ&hl=en&authuser=2
+# cv_link: assets/files/curriculum_vitae_Zhang.pdf
+# github_link: https://github.com/qizhang94
+# linkedin: http://huezhi.com/profile/D0g7-DbDtRETzcEOhC0dFS69RCLJySkoSpmOpQd4ZWb7TrnRh_E9pxM5HGmdxvut?nm=Qi%20Zhang
+# twitter: https://twitter.com/q7zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
