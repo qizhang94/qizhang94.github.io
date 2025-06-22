@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-**This website is NOT updated anymore.** Please visit my new website [keyjone.github.io](https://keyjone.github.io/).
+**This website is NOT updated anymore.** Please visit my [new website](https://www.fst.um.edu.mo/personal/qzhang/).
 
 ## Resources
 
