@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-**This website is NOT updated anymore.** Please visit my [new website](https://personal.feg.um.edu.mo/qzhang/){:target="_blank"}.
+**This website is NOT updated anymore.** Please visit my [new website](https://personal.feg.um.edu.mo/qzhang/).
 
 ## Resources
 
